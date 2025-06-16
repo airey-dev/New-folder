@@ -646,3 +646,52 @@ textarea {
   to {
     opacity: 0;
     top: 27px; } }
+
+
+
+.contact__form-container {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    max-width: 80rem;
+    text-align: right;
+    width: 95%;
+    background: white;
+    padding: 4rem;
+    border-radius: 5px;
+    margin: 5rem auto 0px;
+}
+
+.contact__form-field {
+    margin-bottom: 4rem;
+}
+
+.contact__form-label {
+    color: rgb(102, 102, 102);
+    font-size: 1.4rem;
+    letter-spacing: 1px;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    display: block;
+    text-align: left;
+}
+
+.contact__form-input {
+    color: rgb(51, 51, 51);
+    width: 100%;
+    font-size: 1.6rem;
+    letter-spacing: 0px;
+    font-weight: 600;
+    padding: 2rem;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(235, 235, 235);
+    border-image: initial;
+    background: rgb(240, 240, 240);
+    border-radius: 5px;
+}
+
+.contact__btn {
+    width: 30%;
+    font-size: 1.6rem;
+    padding: 2rem 4rem;
+}
+
